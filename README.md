@@ -25,7 +25,7 @@ Para diseñar esta herramienta se tuvo encuenta los siguientes aspectos:
 - debe ser de un tamaño razonable por dos motivos: el primero, debe tener la suficiente rigidez para soportar las cargas al cual esta sometido y evitar vibraciones. Segundo no debe ser muy grande con el fin que este tenga mayor maniobrabilidad.
 El material y el metodo seleccionado para fabricación fue Impresión 3D en PLC.
 #####  Herramienta:
-El CAD de la herramienta se encuentra adjunto con el nombre PortaMarcador.
+El CAD de la herramienta se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/PortaMarcador.rar">PortaMarcador.</a>>
 
 ###### Vista preliminar:
 ![portaMarcador](https://user-images.githubusercontent.com/49196705/224438179-a45928cc-002a-44af-8f96-74b85692bff3.png)

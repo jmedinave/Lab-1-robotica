@@ -1,4 +1,4 @@
-#Laboratorio 1 - Robotica.
+# Laboratorio 1 - Robotica.
 En este repositorio, se realiza el desarrollo del laboratorio 1 de la asignatura robotica por el profesor: Pedro Fabian Cardenas Herrera Dr.-Ing. Y el profesor:
 Msc-Ing. Jhoan Sebastian Rodriguez Rodriguez
 

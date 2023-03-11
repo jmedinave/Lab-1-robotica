@@ -35,4 +35,14 @@ El CAD de la herramienta se encuentra adjunto con el nombre  <a href="https://gi
 
 Es importante destacar que la longitud del Marcador redimencionará la altura de la herramienta, se dispone de un resorte para amortiguar la carga y del mismo modo que las longitudes no sean un problema al momento de ensayar la herramienta en el manipulador.
 
+##### Robot Studio:
+Para la creación de las rutinas se diseño el codigo considerando letras de tamaño 5cm x 2cm ubicando los puntos necesarios para seguir una trayectoria de acuerdo con el sistema de coordenadas que corresponde al plato de la herramienta.
 
+Se creó un punto de trabajo en la esquina superior izquierda del texto, sobre el cual se coloco los puntos relativos a las letras y los desplazamientos en vacio entre cada letra y entre el punto home, esto con el fin de facilitar la creación de rutinas y el desplazamiento del texto para trabajar en otras posiciones y orientaciones.
+
+Para el caso de la herramienta se ingreso un dato de herramienta con desplazamientos de z = -80 mm y x = 160 mm desde el sistema de coordenados general desde el punto del plato y en la posición de home, con el fin de asegurar una distancia constante sobre el uso de la calibración manual mediante el uso del flex-pendant.
+
+Para el primer caso de escritura se utilizo el punto de trabajo con un desplazamiento de x = 500 mm con respecto a la base del robot, necesitando incrementar el valor de la coordenada z = 13 mm para evitar una colisión fuerte con el suelo por la orientación de la herramienta, mientras que para el segundo caso se utilizo un desplazamiento de x = 500 mm, y = -300 mm, z = 13 mm y con una rotación de -40° con respecto al eje z.
+
+##### Código:
+El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">PortaMarcador.</a>

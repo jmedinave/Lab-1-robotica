@@ -45,4 +45,4 @@ Para el caso de la herramienta se ingreso un dato de herramienta con desplazamie
 Para el primer caso de escritura se utilizo el punto de trabajo con un desplazamiento de x = 500 mm con respecto a la base del robot, necesitando incrementar el valor de la coordenada z = 13 mm para evitar una colisión fuerte con el suelo por la orientación de la herramienta, mientras que para el segundo caso se utilizo un desplazamiento de x = 500 mm, y = -300 mm, z = 13 mm y con una rotación de -40° con respecto al eje z.
 
 ##### Código:
-El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">PortaMarcador.</a>
+El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">codigo.</a>

@@ -53,18 +53,18 @@ En el siguiente video se observa la simulación en la cual las letras se dibujan
 
 https://user-images.githubusercontent.com/62860904/224459790-21024b31-eb05-44b2-a282-f6a95c6305ae.mp4
 
-En el siguiente video se observa la simulacion en la cual las letras se dibujan hacienod una rotacion en el WorkObject.
+En el siguiente video se observa la simulación en la cual las letras se dibujan haciendo una rotación en el WorkObject.
 
 https://user-images.githubusercontent.com/62860904/224459793-58e7781e-2846-4269-81ac-97548c21ee7d.mp4
 
 ##### Videos practica en robots reales
 Despues de la validación de las rutinas en el programa de RobotStudio se procedio a implementar el codigo en los robots reales del laboratorio.
 
-Primero se ejecuto el codigo que permitiera dibujar las iniciales en la superficie relativamente horizontal, en el siguiente video se puede observar el resu.
+Primero se ejecutó el codigo que permitiera dibujar las iniciales en la superficie relativamente horizontal, en el siguiente video se puede observar el resultado.
 
 https://user-images.githubusercontent.com/62860904/224459459-b4821bd3-5b2e-4ae5-a020-6f2fdcf21361.mp4
 
-Por ultimo se ejecuto el codigo en donde el interes fue dibujar las mismas letras pero de manera rotada de tal forma que se tuviera que modificar la orientacion del workobject, en el siguiente video se puede observar el resultado.
+Por ultimo se ejecutó el codigo en donde el interes fue dibujar las mismas letras pero de manera rotada de tal forma que se tuviera que modificar la orientación del workobject, en el siguiente video se puede observar el resultado.
 
 https://user-images.githubusercontent.com/62860904/224459532-946b52fe-19cb-4176-ad5d-01ddb18123a8.mp4
 

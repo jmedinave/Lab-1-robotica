@@ -74,6 +74,6 @@ El uso de un objeto de trabajo simplifica el desplazamiento de los puntos relaci
 
 Para ir a la posición inicial se recomienda utilizar el comando MoveJ, debido a que con MoveL tiende a moverse sin importar su posición, lo que implica problemas cuando se encuentra muy cerca del punto al que tiene que desplazarse generando un error de singularidad.
 
-La mejor manera de trabajar una herramienta y una trayectoria de trabajo en el programa es mediante el uso de modelados CAD ya que permite calcular de forma automatica y exacta todas las posiciones de la herramienta y de la rutina de trabajo.
+La mejor manera de trabajar una herramienta y una trayectoria de trabajo en el programa es mediante el uso de modelados CAD ya que permite calcular de forma automática y exacta todas las posiciones de la herramienta y de la rutina de trabajo.
 
 

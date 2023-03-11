@@ -46,3 +46,12 @@ Para el primer caso de escritura se utilizó el punto de trabajo con un desplaza
 
 ##### Código:
 El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">código.</a>
+
+##### Videos simulación
+
+##### Videos practica en robots reales
+Despues de la validación de las rutinas en el programa de RobotStudio se procedio a implementar el codigo en los robots reales del laboratorio.
+
+Primero se ejecuto el codigo que permitiera dibujar las iniciales en la superficie relativamente horizontal, en el siguiente video se puede observar el resultado.
+
+Por ultimo se ejecuto el codigo en donde el interes fue dibujar las mismas letras pero de manera rotada de tal forma que se tuviera que modificar la orientacion del workobject, en el siguiente video se puede observar el resultado.

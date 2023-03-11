@@ -68,6 +68,12 @@ Por ultimo se ejecutó el codigo en donde el interes fue dibujar las mismas letr
 
 https://user-images.githubusercontent.com/62860904/224459532-946b52fe-19cb-4176-ad5d-01ddb18123a8.mp4
 
+##### Conclusiones:
 
+El uso de un objeto de trabajo simplifica el desplazamiento de los puntos relacionados al mismo reduciendo el tiempo y trabajo requeridos para realizar una rutina en un lugar del espacio con respecto a otro.
+
+Para ir a la posición inicial se recomienda utilizar el comando MoveJ, debido a que con MoveL tiende a moverse sin importar su posición, lo que implica problemas cuando se encuentra muy cerca del punto al que tiene que desplazarse generando un error de singularidad.
+
+La mejor manera de trabajar una herramienta y una trayectoria de trabajo en el programa es mediante el uso de modelados CAD ya que permite calcular de forma automatica y exacta todas las posiciones de la herramienta y de la rutina de trabajo.
 
 

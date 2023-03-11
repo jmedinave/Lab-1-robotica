@@ -51,7 +51,11 @@ El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://
 Antes de la ejecución de las rutinas para dibujar las iniciales con los robots reales, se hicieron dos simulaciones en el programa de RobotStudio para verificar que el resultado que se esperaba era el indicado.
 En el siguiente video se observa la simulación en la cual las letras se dibujan en un plano relativamente horizontal.
 
+https://user-images.githubusercontent.com/62860904/224459790-21024b31-eb05-44b2-a282-f6a95c6305ae.mp4
+
 En el siguiente video se observa la simulacion en la cual las letras se dibujan hacienod una rotacion en el WorkObject.
+
+https://user-images.githubusercontent.com/62860904/224459793-58e7781e-2846-4269-81ac-97548c21ee7d.mp4
 
 ##### Videos practica en robots reales
 Despues de la validación de las rutinas en el programa de RobotStudio se procedio a implementar el codigo en los robots reales del laboratorio.

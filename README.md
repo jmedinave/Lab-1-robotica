@@ -48,10 +48,22 @@ Para el primer caso de escritura se utilizó el punto de trabajo con un desplaza
 El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">código.</a>
 
 ##### Videos simulación
+Antes de la ejecución de las rutinas para dibujar las iniciales con los robots reales, se hicieron dos simulaciones en el programa de RobotStudio para verificar que el resultado que se esperaba era el indicado.
+En el siguiente video se observa la simulación en la cual las letras se dibujan en un plano relativamente horizontal.
+
+En el siguiente video se observa la simulacion en la cual las letras se dibujan hacienod una rotacion en el WorkObject.
 
 ##### Videos practica en robots reales
 Despues de la validación de las rutinas en el programa de RobotStudio se procedio a implementar el codigo en los robots reales del laboratorio.
 
-Primero se ejecuto el codigo que permitiera dibujar las iniciales en la superficie relativamente horizontal, en el siguiente  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/INICIALES_NORMAL.mp4"> video </a> se puede observar el resultado.
+Primero se ejecuto el codigo que permitiera dibujar las iniciales en la superficie relativamente horizontal, en el siguiente video se puede observar el resu.
 
-Por ultimo se ejecuto el codigo en donde el interes fue dibujar las mismas letras pero de manera rotada de tal forma que se tuviera que modificar la orientacion del workobject, en el siguiente  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/INICIALES_ROTADAS.mp4"> video </a>  se puede observar el resultado.
+https://user-images.githubusercontent.com/62860904/224459459-b4821bd3-5b2e-4ae5-a020-6f2fdcf21361.mp4
+
+Por ultimo se ejecuto el codigo en donde el interes fue dibujar las mismas letras pero de manera rotada de tal forma que se tuviera que modificar la orientacion del workobject, en el siguiente video se puede observar el resultado.
+
+https://user-images.githubusercontent.com/62860904/224459532-946b52fe-19cb-4176-ad5d-01ddb18123a8.mp4
+
+
+
+
